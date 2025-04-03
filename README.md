@@ -21,7 +21,7 @@ Pesquisador e desenvolvedor especializado em Inteligência Artificial, com foco 
 ## Educação & Capacitações
 
 - **Universidade Federal do Amazonas (UFAM)**  
-  Bacharelado em Ciência da Computação (Conclusão: Julho de 2025)
+  Bacharelado em Ciência da Computação
 
 - **Instituto de Computação da UFAM**  
   - Capacitação em Android (DevTITANS) – Maio 2022 a Outubro 2022  
