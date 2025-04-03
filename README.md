@@ -47,7 +47,7 @@ Pesquisador e desenvolvedor especializado em Inteligência Artificial, com foco 
   - *Uma proposta para utilização da metodologia POGIL no ensino de programação* ([Educomp 2022](https://sol.sbc.org.br/index.php/educomp_estendido/article/view/19394))
 
 <!-- Seção Habilidades Técnicas -->
-## Habilidades Técnicas
+## Stack de Desenvolvimento Atual
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
