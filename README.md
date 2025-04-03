@@ -13,7 +13,7 @@ Pesquisador e desenvolvedor especializado em Inteligência Artificial, com foco 
 
 
 - 🎓 **Formação:** Bacharelado em Ciência da Computação na Universidade Federal do Amazonas
-- 🔬 **Experiência em Pesquisa:** Participação em projetos como PIBIC e PAREC, além de atuação em projetos de iniciação científica e tecnológica.
+- 🔬 **Experiência em Pesquisa:** Participação em projetos como PIBIC, SUPER e PAREC.
 - 💻 **Desenvolvimento:** Atuando com tecnologias como Python, Java, TypeScript, C/C++ e frameworks como TensorFlow, PyTorch e React.
 - 📚 **Publicações e Projetos:** Diversas publicações e projetos pessoais, incluindo o Pain Classifier Video no Hugging Face.
 
