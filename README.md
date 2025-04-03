@@ -28,7 +28,7 @@ Pesquisador e desenvolvedor especializado em Inteligência Artificial, com foco 
   - Capacitação em Tecnologias Web (WebAcademy) – Março 2023 a Outubro 2023
 
 - **Projeto SUPER**  
-  Capacitação em Aprendizado de Máquina – Abril 2024 a Outubro 2024
+  Capacitação em Aprendizado de Máquina – Abril 2024 a Março 2025
 
 <!-- Seção Projetos de Pesquisa e Publicações -->
 ## Projetos de Pesquisa & Publicações
